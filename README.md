@@ -34,7 +34,7 @@
 </p>
 
 <p>
-   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=megatran&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="megatran" />
+   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=megatran&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="megatran" />
  
   <img align="left" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megatran&theme=dark&count_private=true&show_icons=true&layout=compact&hide=html,asp,jupyter%20notebook" alt="megatran" />
 </p>
