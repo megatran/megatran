@@ -1,14 +1,5 @@
 ## Hi there 👋, I'm Nhan (sounds like compaNION)
- <h4> I'm researching robotics and AR/VR, and am pursuing a Computer Science PhD at Cornell University (with a minor in Film and Video Production).</h4>
-
-- 🔭 I’m currently working on **AR/VR, 3D reconstruction, and human-robot interaction for healthcare applications**
-- 💬 Ask me about **anything related to robotics, HRI, ARKit, Unity3D, and AR/VR content creation**
-- 📫 How to reach me: [![Linkedin: NhanTran](https://img.shields.io/badge/-Connect!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ttrannhan/)](https://www.linkedin.com/in/ttrannhan/) 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/megatran23.svg?style=social&label=Follow%20%40megatran23)](https://twitter.com/megatran23)
-
-- 👨🏻‍💻 Check out my other technical and video projects: https://trannhan.com/
-
-
+ <h4> I'm a Computer Science PhD at Cornell University (with a minor in Film and Video Production).</h4>
 
 <p>
     <img src="https://github.com/megatran/megatran/blob/main/wall_z_robot.gif" width="50%" />
